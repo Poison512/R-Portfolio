@@ -9,10 +9,10 @@
     text-decoration:  none;
 }
 :root {
-    --color-bg: #1f1f38;
-    --color-bg-varient:#2c2c6c;
-    --color-primary:#4db5ff;
-    --color-primary-varient: rgba(77, 181, 255, 0.4);
+    --color-bg: black;
+    --color-bg-varient:#1d241c;
+    --color-primary:#53ff4d;
+    --color-primary-varient: rgb(101, 241, 45);
     --color-white: #fff;
     --color-light: rgba(255, 255,255, 0.6);
 
@@ -33,6 +33,7 @@ body {
     background: var(--color-bg);
     color:var(--color-white);
     line-height: 1.7;
+    text-align: center;
 }
 /*==== general style =====*/
 
@@ -49,7 +50,6 @@ h1 {
 }
 section{
     margin-top: 8rem;
-    height:100vh;
 }
 section > h2, section > h5 {
     text-align: center;

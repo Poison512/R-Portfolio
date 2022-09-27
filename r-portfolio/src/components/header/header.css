@@ -1,5 +1,5 @@
 .header {
-    height:100vh;
+
     padding-top: 7rem;
     overflow: hidden;
 
@@ -18,18 +18,21 @@
 
 .header__socials{
     display: flex;
-    flex-direction: column;
+    flex-direction:row;
     align-items: center;
     gap: 0.8rem;
     position: absolute;
-    left: 0;
+    left: 5;
     bottom: 3rem;
 }
-.header__socials::after{
-    content: "";
-    width: 1px;
-    height: 2rem;
-    background: var(--color-primary);
+
+section{
+    margin-top: 8rem;
+    height:75vh;
+}
+section > h2, section > h5 {
+    text-align: center;
+    color: var(--color-light);
 }
 
 /*=== media queries (medium devices) ===*/
