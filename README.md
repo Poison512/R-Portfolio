@@ -1,12 +1,5 @@
 # WELCOME TO MY REACT PORTFOLIO
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## CLICK HERE FOR DEPLOYED SITE (https://poison512.github.io/R-Portfolio/)
 
 
