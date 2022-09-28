@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/R-Portfolio/static/css/main.9de19466.css",
+    "main.js": "/R-Portfolio/static/js/main.42e2209c.js",
+    "static/media/Adrian_Resume.pdf": "/R-Portfolio/static/media/Adrian_Resume.e47e4b68aef61a4b4d96.pdf",
+    "index.html": "/R-Portfolio/index.html",
+    "main.9de19466.css.map": "/R-Portfolio/static/css/main.9de19466.css.map",
+    "main.42e2209c.js.map": "/R-Portfolio/static/js/main.42e2209c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9de19466.css",
+    "static/js/main.42e2209c.js"
+  ]
+}
